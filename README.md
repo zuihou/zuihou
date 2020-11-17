@@ -1,7 +1,6 @@
 ### 大家好，我是最后👋
 
-- 🔭 我目前正在研究微服务、分布式应用
-- 🌱 我正在学习架构、管理等
+- 🔭 如果觉得项目不错,麻烦动手点个Star. 感谢支持!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuihou&layout=compact&theme=radical)](https://github.com/zuihou)
 
